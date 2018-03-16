@@ -1,0 +1,10 @@
+a=[]
+for i in range(3):
+    b=str(input())
+    a.append(b)
+print(a)
+c=str(input())
+if (c in a):
+   print ('present')
+else:
+    print('not present')
