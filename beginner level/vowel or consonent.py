@@ -1,6 +1,6 @@
 _a= 'a','e','i','o','u'
 c=str(input())
 if c in _a:
-    print ('it is vowel')
+    print ('vowel')
 else:
-    print ('it is consonant')
+    print ('consonant')
