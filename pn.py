@@ -1,6 +1,6 @@
 a=int(input('input: '))
 if(a==0):
-    print ('output : neutral')
+    print ('output : zero')
 elif(a<0):
     print ('output : negative')
 else:
