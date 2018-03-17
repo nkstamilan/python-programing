@@ -1,0 +1,9 @@
+a=str(input())
+b=str(input())
+_b=len(b)
+for i in range(_b):
+    c=b[i]  
+if (c in a):
+    print ('present')
+else:
+    print('not present')
