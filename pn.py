@@ -1,7 +1,7 @@
 a=int(input('input: '))
-if(a==0):
-    print ('output : zero')
-elif(a<0):
-    print ('output : negative')
+if(1<=a<=100000):
+    print('output : positive')
+elif(a==0):
+    print('output : zero')
 else:
-    print ('output : positive')
+    print('output : negative')
