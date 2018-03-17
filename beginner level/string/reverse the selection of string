@@ -1,0 +1,7 @@
+a='string'
+b=a[4:0:-1]
+print(b)
+
+a='string'
+b=a[4::-1]
+print(b)
