@@ -1,7 +1,7 @@
-a=int(input())
+a=int(input('input: '))
 if(a==0):
-    print ('neutral')
+    print ('output : neutral')
 elif(a<0):
-    print ('negative')
+    print ('output : negative')
 else:
-    print ('positive')
+    print ('output : positive')
