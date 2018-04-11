@@ -6,3 +6,5 @@ if(a>1 and a<1000):
       break
   else:
     print("it is a prime number")
+else:
+  print("no")
