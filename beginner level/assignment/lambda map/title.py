@@ -1,6 +1,6 @@
-a=['naveen','kumar']
-print a[0].title()
+a=['naveen','kumar s']
+print a[1].title()
 
 
 output:
-Naveen
+Kumar S
